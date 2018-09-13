@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: D:\SuperMemo2008\systems\The Thirty-Nine Steps C-N
+   Date: 2016年1月9日, 10:17:20
+   SuperMemo 2008 (Build 14.04, Feb 18, 2010)
+
+Retention data errors can be ignored
+
+Process completed at 10:17:20 in 00:00:00 sec (2016年1月9日)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________
