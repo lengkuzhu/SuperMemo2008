@@ -1,1 +1,21 @@
-﻿感到疑惑, 想要知道		wonder
+﻿contribute	贡献
+illegal 	非法
+blank		空白
+enable 		启用
+guide 		指南
+deploy		配置
+minimum		最小
+wide 		广泛的, 广阔的
+repository 	仓库
+unique 		唯一
+revision 	修正
+facade 		外观
+instruction 	指令
+abort 		异常中止
+history 	历史
+latest 		最新的
+disable 	禁用
+transmission 	传输
+cable 		电缆
+generate 	生成
+expert 		专家
